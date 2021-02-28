@@ -1,5 +1,5 @@
 # bayes.coins-and-earth-tosses
-![Caption for the picture.](fair vs fake coin prob densities.png)
+<img src="fair vs fake coin prob densities.png" alt="fair vs fake coin prob densities">
 Some Bayes training using fair a fake counts. 
 
 Grid method as seen in Statistical Rethinking book.
